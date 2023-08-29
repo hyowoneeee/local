@@ -3,9 +3,6 @@
 import subprocess
 # In[ ]:
 
-subprocess.run(["pip", "install", "-r", "requirements.txt"])
-
-
 
 # In[21]:
 
