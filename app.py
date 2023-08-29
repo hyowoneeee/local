@@ -3,7 +3,8 @@
 
 # In[ ]:
 
-get_ipython().system('pip install -r requirements.txt')
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
+
 
 
 # In[21]:
