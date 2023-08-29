@@ -10,9 +10,7 @@ import subprocess
 import pandas as pd
 import geopandas as gpd
 from geopy.geocoders import Nominatim
-import time
 from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
-from geopy.geocoders import Nominatim
 import streamlit as st
 import folium
 

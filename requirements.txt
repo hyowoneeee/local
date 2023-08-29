@@ -3,3 +3,5 @@ geopandas
 geopy
 folium
 subprocess
+geopy.geocoders
+geopy.exc
