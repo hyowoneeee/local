@@ -3,8 +3,7 @@
 
 # In[ ]:
 
-
-get_ipython().system('pip install -r requirments.txt')
+get_ipython().system('pip install -r requirements.txt')
 
 
 # In[21]:
